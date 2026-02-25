@@ -1,5 +1,5 @@
 # E-Commerce Sales Dashboard  
-**End-to-End Analytics Portfolio Project – Dilmy**
+**End-to-End Analytics Project**
 
 A complete data analysis & visualization showcase demonstrating skills in **data preparation**, **SQL analytics**, **dimensional modeling**, and **interactive BI reporting** for a real-world e-commerce use case.
 
